@@ -1,0 +1,12 @@
+# python stuff
+.env
+
+# Django stuff
+__pycache__/
+*.log
+
+# IDE stuff
+.idea
+
+# DB stuff
+db.sqlite3
